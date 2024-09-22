@@ -1,4 +1,7 @@
 ## Hi there 👋
+This is responsibality
+<br>
+Authore -Jitendra Arya
 
 <!--
 **Arya1018/Arya1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
